@@ -1,0 +1,26 @@
+void main()
+{
+ /* 1. int (integer = number)
+    2. double (decimal)
+    3. String (sequene of characters)
+    4. Boolean 
+    5. List
+    6. Map 
+    7. Dynamic (it dynamically check our data type)
+   */
+  int age = 12; # integer data type
+  print(age);
+  double age = 12.9; # decimal data type
+  print(age);
+  String name = "Okasha" ; # String data type
+  print(name);
+  bool name = true ; # boolean data type
+  print(name);
+  List arr = [3.9, 12, "Hussain", true]; # List data type
+  print(arr);
+  Map arr = {'name': 'Ali', 'city': 'Karachi'}; # Map data type(dictionary in python)
+  print(arr);
+  var num = 10; # dynamic data type
+  print(num);
+ 
+}
