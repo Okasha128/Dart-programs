@@ -1,0 +1,12 @@
+void main()
+{
+ // for single line comment
+  /* int a = (20)
+     print(a);   */ for multiline comment
+  /// Doc : triple backslash for document comment
+  
+  
+  
+  
+ 
+}
