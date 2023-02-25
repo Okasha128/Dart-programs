@@ -1,0 +1,15 @@
+void main()
+{
+ var fname = 'Ali';
+  var lname = 'barzam';
+  print(fname + lname); /// concatenate 
+ var name = 'Ahmed';
+  print(name.toLowerCase()); /// it will lower our character
+  print(name.toUpperCase()); /// it will upper our character
+  print(name.length); /// it will provide us the length of our varaible
+  var name = 'My nam is Ahmed';
+  print(name.replaceAll('Ahmed', 'Ali')); /// it will replace Ahmed to Ali
+   print(name.split(' ')); /// it will covert our string into list
+   print(name.substring(3,6)); /// it will provide output: nam
+
+}
