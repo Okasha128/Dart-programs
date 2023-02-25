@@ -1,0 +1,28 @@
+/// if structure
+/// if-else structure
+/// if-elseif-else structure
+/// switch case
+void main()
+{
+ var name = 'Mubashir';
+ /* if (name=='Taimoor'){
+    print('Right1');
+  }else if (name== 'Rehman'){
+    print('Right2');
+  }else{
+    print("Wrong"); 
+  
+  } */
+  switch(name){
+    case 'Mubashir':
+      print('You are right!');
+      break;
+    
+    case  'Amjad':
+      print('You are wrong!');
+      break;
+    
+    default:
+      print('error');
+  }
+}
