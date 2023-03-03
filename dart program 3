@@ -1,0 +1,13 @@
+# Write a prompts calculate the volume and surface area of a sphere
+import 'dart:math';
+void main(){
+  var r = pow(3,3);
+  var r1 = pow(3,2);
+  var pi = 3.142;
+  var v = (4/3)*pi*r;
+  var a = 4*pi* r1;
+  print(v);
+  print(a);
+  
+  
+  }
