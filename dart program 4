@@ -1,0 +1,7 @@
+# Write a program that prompts the user to enter a base and an exponent and then calculate of raising base and an exponent
+import 'dart:math';
+void main(){
+ var  base = 4;
+  var exp = 3;
+  var result = pow(4,3);
+  print(result);
