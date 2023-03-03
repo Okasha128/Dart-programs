@@ -1,0 +1,7 @@
+Write a Program to calculate area of a triangle
+void main(){
+  var b = 4;
+  var h = 5;
+  var A = (b*h)/2;
+  print(A);
+ }
