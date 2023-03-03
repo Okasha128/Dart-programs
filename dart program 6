@@ -1,0 +1,10 @@
+# Write a program that determine prime number
+void main(){
+var num = 3;
+if  (num~/2 == 1){
+  print("This is prime number");
+} else {
+  print("This is not a prime number");
+}
+
+}
